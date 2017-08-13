@@ -23,12 +23,10 @@
 
 ## Common Problems we try to solve
 
-- Binary Classification: put an example into one of 2 available classes, for e.g. Object of Type A or B, Student is proficient or not, Yes or Not
-- Multi-class Classification: put an example into one of many available classes, for e.g. each 'digit' in a set of handwritten numbers can be a class, now we need to predict which of the images belong to which class (and hence represents which number)
-- Prediction or Regression: Try and predict a value
-- Ranking: Rank courses, movies, web pages in order of relevance
+- *Binary Classification*: put an example into one of 2 available classes, for e.g. Object of Type A or B, Student is proficient or not, Yes or Not
+- *Multi-class Classification*: put an example into one of many available classes, for e.g. each 'digit' in a set of handwritten numbers can be a class, now we need to predict which of the images belong to which class (and hence represents which number)
+- *Prediction or Regression*: Try and predict a value
+- *Ranking*: Rank courses, movies, web pages in order of relevance
 
 When we break machine learning problems this way, we give ourselves a method for measuring the error
-
-
 
