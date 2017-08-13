@@ -5,11 +5,13 @@
 -  and this [http://learnds.com/]
 
 ## ML vs AI
+
 - Machine Learning is a 'subset' of AI
 	- deals with extant algorithms and their implemetation
 - AI is all the research going on around Intelligent Machines
 
 ## Learning?
+
 - Ability to *generalize* from specific examples
 	- Incorrect to ask questions about a pottery course in a Machine Learning Course
 	- Incorrect to ask the _same_ question that was taught - even if with different data
