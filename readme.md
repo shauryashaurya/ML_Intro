@@ -1,8 +1,8 @@
 ## References:
 
-http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf
-https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf
-http://learnds.com/
+- This [http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf], 
+- This [https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf], 
+-  and this [http://learnds.com/]
 
 ## ML vs AI
 - Machine Learning is a 'subset' of AI
@@ -17,9 +17,9 @@ http://learnds.com/
 
 ## Is there a Glossary?
 
-Helpful: http://alumni.media.mit.edu/~tpminka/statlearn/glossary/
-Not: https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
-Meh: https://martin-thoma.com/ml-glossary/
+- Helpful: http://alumni.media.mit.edu/~tpminka/statlearn/glossary/
+- Not: https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
+- Meh: https://martin-thoma.com/ml-glossary/
 
 ## Common Problems we try to solve
 
