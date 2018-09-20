@@ -6,6 +6,9 @@
 
 ## ML vs AI
 
+_Admittedly this is the kinda sh*t your 'manager' will spout._ 
+_If you really are one of those who want to get to work, ignore this._
+
 - Machine Learning is a 'subset' of AI
 	- deals with extant algorithms and their implemetation
 - AI is all the research going on around Intelligent Machines
