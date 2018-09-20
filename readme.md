@@ -1,3 +1,6 @@
+If the field of ML was Doc Brown, this introduction to machine tutorial is Marty McFly. 
+You'll not be able to invent time travel, but you'll be able to stumble and fall all the way to saving the day. 
+
 ## References:
 
 - This [http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf], 
