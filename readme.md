@@ -20,8 +20,8 @@
 ## Is there a Glossary?
 
 - Helpful: http://alumni.media.mit.edu/~tpminka/statlearn/glossary/
-- Not: https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
-- Meh: https://martin-thoma.com/ml-glossary/
+- Another: https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
+- Yet another: https://martin-thoma.com/ml-glossary/
 
 ## Common Problems we try to solve
 
