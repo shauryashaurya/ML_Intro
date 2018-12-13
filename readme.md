@@ -8,15 +8,6 @@ You'll not be able to invent time travel, but you'll be able to stumble and fall
 - This [https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf], 
 -  and this [http://learnds.com/]
 
-## ML vs AI
-
-_Admittedly this is the kinda sh*t your 'manager' will spout._ 
-_If you really are one of those who want to get to work, ignore this._
-
-- Machine Learning is a 'subset' of AI
-	- deals with extant algorithms and their implemetation
-- AI is all the research going on around Intelligent Machines
-
 ## Learning?
 
 - Ability to *generalize* from specific examples
@@ -57,3 +48,23 @@ Here is...
 Also:
 ![A Mindmap of the algorithms](images/MachineLearningAlgorithms.png)
 (source: https://machinelearningmastery.com/)
+
+## How this works:
+Each bit addressed below will have two or three Jupyter Notebooks associated with them:
+1. An empty workbook, where you can add your code.
+2. A tutorial workbook.
+2. A solution workbook.
+You can start with the empty notebook, follow the tutorial and end up with the solution.
+
+## ML vs AI - a quick rant
+I come across this question again and again. 
+IMO,
+_this is a perfectly useless classification, reserved for sales decks and management retreats._ 
+_If you really are one of those who want to get to work, ignore this._
+
+- Machine Learning is a 'subset' of AI
+	- deals with extant algorithms and their implemetation
+	- when people use this term what they mean is not only implementing cool algorithms, but also doing the dirty work of loading and querying data, cleaning it, figuring out the inconsistencies, the idisyncracies of the data/domain, imputing where necessary and the other tasks that may be thought of as 'drudgery' simply because they are the necessary nuts and bolts of every ML operation. This is not unlike the way engineering is treated - where the people writing the code are at the bottom of the pyramid. 
+- AI is all the research going on around Intelligent Machines - all the 'Math' work. 
+
+Ultimately it's upto the practioner to gain expertise and earn respect. ML vs AI - these divisions are largely there for people, who'll never write code or model with their own hands to talk in ways that don't sound completely stupid (to others like them). 
