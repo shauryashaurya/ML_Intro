@@ -37,7 +37,8 @@ Personally, you may not care about this _eventually_, but we humans learn by cla
 - Supervised learning: Input a *vector*, find out what *class*/*lable* the vector belongs to using a *model*. Learn using existing *labelled* data where a variety of vectors have already been assigned labels.
 - Unsupervised learning: Input a vector, output a *transformed value* (or a vector) that solves a practical problem (for e.g. *clustering, outlier detection, dimensionality reduction* etc.). Learn using data that has no labels.
 - Semi-supervised learning: Just like supervised learning, input a vector, find out what class/lable the vector belongs to. Learn based on data that has labels, but *a lot of the lables are missing* - you have data that can better inform your probability distributions, so this could improve the classification. 
-- Reinforcement learning: 
+- Reinforcement learning: Pick an action to maximize average/cumulative reward for a given state of the environment. 
+- Ensemble learning: Improve the performance of your models. Uses tricks from supervised learning.
 
 Here is...
 
@@ -55,6 +56,19 @@ Each bit addressed below will have two or three Jupyter Notebooks associated wit
 2. A tutorial workbook.
 2. A solution workbook.
 You can start with the empty notebook, follow the tutorial and end up with the solution.
+
+## Topics:
+Here are all the bits we will cover:
+- Decision Trees - CART
+- Decision Trees - C4.5 and C5
+- Dimensionality Reduction - PCA
+- Dimensionality Reduction - LDA
+- Clustering - K-Means and K-Medians
+- Regression - Linear Regression
+- Regression - Logistic Regression
+- Measures of success - 
+
+
 
 ## ML vs AI - a quick rant
 I come across this question again and again. 
