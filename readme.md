@@ -1,4 +1,5 @@
-If the field of ML was Doc Brown, this introduction to machine tutorial is Marty McFly. 
+If the field of ML was Doc Brown, this introduction to machine learning tutorial is Marty McFly. 
+
 You'll not be able to invent time travel, but you'll be able to stumble and fall all the way to saving the day. 
 
 ## References:
@@ -38,3 +39,7 @@ _If you really are one of those who want to get to work, ignore this._
 
 When we break machine learning problems this way, we give ourselves a method for measuring the error
 
+## A visual lay of the land
+
+(source: https://machinelearningmastery.com/)
+![A Mindmap of the algorithms](images/MachineLearningAlgorithms.png)
