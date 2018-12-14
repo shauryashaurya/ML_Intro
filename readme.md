@@ -2,26 +2,26 @@ If the field of ML was Doc Brown, this introduction to machine learning tutorial
 
 You'll not be able to invent time travel, but you'll be able to stumble and fall all the way to saving the day. 
 
-## References:
+# References:
 
 - This [http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf], 
 - This [https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf], 
 -  and this [http://learnds.com/]
 
-## Learning?
+# Learning?
 
 - Ability to **generalize** from specific examples
 	- Incorrect to ask questions about a pottery course in a Machine Learning Course
 	- Incorrect to ask the _same_ question that was taught - even if with different data
 	- Expected to extrapolate or **infer** answers from the questions that were studied
 
-## Is there a Glossary?
+# Is there a Glossary?
 
 - Helpful: http://alumni.media.mit.edu/~tpminka/statlearn/glossary/
 - Another: https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
 - Yet another: https://martin-thoma.com/ml-glossary/
 
-## 'Paradigms' or Types
+# 'Paradigms' or Types
 
 You may not care about this *eventually*, but we humans learn by classifying, so here's a common way to bucket the problems of machine learning:
 
@@ -33,7 +33,7 @@ You may not care about this *eventually*, but we humans learn by classifying, so
 
 Here is...
 
-## A visual lay of the land
+# A visual lay of the land
 
 - A visual introduction to machine learning: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
@@ -41,7 +41,7 @@ Also:
 ![A Mindmap of the algorithms](images/MachineLearningAlgorithms.png)
 (source: https://machinelearningmastery.com/)
 
-## Common Problems we try to solve
+# Common Problems we try to solve
 
 - **Binary Classification**: put an example into one of 2 available classes, for e.g. Object of Type A or B, Student is proficient or not, Yes or Not
 - **Multi-class Classification**: put an example into one of many available classes, for e.g. each 'digit' in a set of handwritten numbers can be a class, now we need to predict which of the images belong to which class (and hence represents which number)
@@ -50,14 +50,16 @@ Also:
 - ...others
 When we break machine learning problems this way, we give ourselves a method for measuring the errors.
 
-## How this works:
+# How this works
 Each bit addressed below will have two or three Jupyter Notebooks associated with them:
 1. An empty workbook, where you can add your code.
 2. A tutorial workbook.
 2. A solution workbook.
 You can start with the empty notebook, follow the tutorial and end up with the solution.
 
-## Topics:
+## You'll need
+
+# Topics
 Here are all the bits we will cover:
 - Decision Trees - CART
 - Decision Trees - ID3, C4.5 and C5
@@ -68,7 +70,7 @@ Here are all the bits we will cover:
 - Dimensionality Reduction - PCA
 - Dimensionality Reduction - LDA
 
-## ML vs AI - a quick rant
+# ML vs AI - a quick rant
 I come across this question again and again. 
 IMO,
 _this is a perfectly useless classification, reserved for sales decks and management retreats._ 
