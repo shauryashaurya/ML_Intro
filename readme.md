@@ -21,18 +21,9 @@ You'll not be able to invent time travel, but you'll be able to stumble and fall
 - Another: https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
 - Yet another: https://martin-thoma.com/ml-glossary/
 
-## Common Problems we try to solve
+## 'Paradigms' or Types
 
-- **Binary Classification**: put an example into one of 2 available classes, for e.g. Object of Type A or B, Student is proficient or not, Yes or Not
-- **Multi-class Classification**: put an example into one of many available classes, for e.g. each 'digit' in a set of handwritten numbers can be a class, now we need to predict which of the images belong to which class (and hence represents which number)
-- **Prediction or Regression**: Try and predict a value
-- **Ranking**: Rank courses, movies, web pages in order of relevance
-- ...others
-When we break machine learning problems this way, we give ourselves a method for measuring the error
-
-## Types
-
-Personally, you may not care about this *eventually*, but we humans learn by classifying, so here's a common way to bucket the problems of machine learning:
+You may not care about this *eventually*, but we humans learn by classifying, so here's a common way to bucket the problems of machine learning:
 
 - **Supervised learning**: Input a **vector**, find out what **class**/**lable** the vector belongs to using a **model**. Learn using existing **labelled** data where a variety of vectors have already been assigned labels.
 - **Unsupervised learning**: Input a vector, output a **transformed value** (or a vector) that solves a practical problem (for e.g. **clustering, outlier detection, dimensionality reduction** etc.). Learn using data that has no labels.
@@ -50,6 +41,15 @@ Also:
 ![A Mindmap of the algorithms](images/MachineLearningAlgorithms.png)
 (source: https://machinelearningmastery.com/)
 
+## Common Problems we try to solve
+
+- **Binary Classification**: put an example into one of 2 available classes, for e.g. Object of Type A or B, Student is proficient or not, Yes or Not
+- **Multi-class Classification**: put an example into one of many available classes, for e.g. each 'digit' in a set of handwritten numbers can be a class, now we need to predict which of the images belong to which class (and hence represents which number)
+- **Prediction or Regression**: Try and predict a value
+- **Ranking**: Rank courses, movies, web pages in order of relevance
+- ...others
+When we break machine learning problems this way, we give ourselves a method for measuring the errors.
+
 ## How this works:
 Each bit addressed below will have two or three Jupyter Notebooks associated with them:
 1. An empty workbook, where you can add your code.
@@ -60,15 +60,13 @@ You can start with the empty notebook, follow the tutorial and end up with the s
 ## Topics:
 Here are all the bits we will cover:
 - Decision Trees - CART
-- Decision Trees - C4.5 and C5
-- Dimensionality Reduction - PCA
-- Dimensionality Reduction - LDA
-- Clustering - K-Means and K-Medians
+- Decision Trees - ID3, C4.5 and C5
 - Regression - Linear Regression
 - Regression - Logistic Regression
-- Measures of success - 
-
-
+- The Confusion Matrix
+- Clustering - K-Means and K-Medians
+- Dimensionality Reduction - PCA
+- Dimensionality Reduction - LDA
 
 ## ML vs AI - a quick rant
 I come across this question again and again. 
