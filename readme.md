@@ -58,10 +58,10 @@ Each bit addressed below will have two or three Jupyter Notebooks associated wit
 You can start with the empty notebook, follow the tutorial and end up with the solution.
 
 ## You'll need
-A computer with atleast 16 Gb of RAM
-Access to the internet
-Anaconda installed on your machine: [prefer a 64-bit, Python 3.x download from here](https://www.anaconda.com/download/)
-I'll point out datasets that we need for each of the exercises as we go along.
+- A computer with atleast 16 Gb of RAM
+- Access to the internet
+- Anaconda installed on your machine: [prefer a 64-bit, Python 3.x download from here](https://www.anaconda.com/download/)
+- I'll point out datasets that we need for each of the exercises as we go along.
 
 # Topics
 Here are all the bits we will cover:
