@@ -31,7 +31,8 @@ Here is...
 ![A Mindmap of the algorithms](images/MachineLearningAlgorithms.png)
 (source: https://machinelearningmastery.com/)
 
-- There are several common algorithms that one needs to know. An intution about these is available on [the scikit-learn site](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+
+There are several common algorithms that one needs to know. An intution about these is available on [the scikit-learn site](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
 ![Choosing the right estimator](images/ml_map.png)
 
