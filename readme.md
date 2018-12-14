@@ -28,9 +28,6 @@ Here is...
 
 # A visual lay of the land
 
-[A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-
-Also:
 ![A Mindmap of the algorithms](images/MachineLearningAlgorithms.png)
 (source: https://machinelearningmastery.com/)
 
@@ -39,6 +36,10 @@ Also:
 ![Choosing the right estimator](images/ml_map.png)
 
 Another interesting one is [available from Microsoft](https://download.microsoft.com/download/A/6/1/A613E11E-8F9C-424A-B99D-65344785C288/microsoft-machine-learning-algorithm-cheat-sheet-v7.pdf)
+
+Also:
+[A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
 
 # Common Problems we try to solve
 
