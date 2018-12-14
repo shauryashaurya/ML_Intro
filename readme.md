@@ -8,13 +8,6 @@ You'll not be able to invent time travel, but you'll be able to stumble and fall
 - This [https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf], 
 -  and this [http://learnds.com/]
 
-# Learning?
-
-- Ability to **generalize** from specific examples
-	- Incorrect to ask questions about a pottery course in a Machine Learning Course
-	- Incorrect to ask the _same_ question that was taught - even if with different data
-	- Expected to extrapolate or **infer** answers from the questions that were studied
-
 # Is there a Glossary?
 
 - Helpful: http://alumni.media.mit.edu/~tpminka/statlearn/glossary/
@@ -35,11 +28,17 @@ Here is...
 
 # A visual lay of the land
 
-- A visual introduction to machine learning: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+[A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 Also:
 ![A Mindmap of the algorithms](images/MachineLearningAlgorithms.png)
 (source: https://machinelearningmastery.com/)
+
+- There are several common algorithms that one needs to know. An intution about these is available on [the scikit-learn site](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+
+![Choosing the right estimator](images/ml_map.png)
+
+Another interesting one is [available from Microsoft](https://download.microsoft.com/download/A/6/1/A613E11E-8F9C-424A-B99D-65344785C288/microsoft-machine-learning-algorithm-cheat-sheet-v7.pdf)
 
 # Common Problems we try to solve
 
@@ -60,7 +59,7 @@ You can start with the empty notebook, follow the tutorial and end up with the s
 ## You'll need
 - A computer with atleast 16 Gb of RAM
 - Access to the internet
-- Anaconda installed on your machine: [prefer a 64-bit, Python 3.x download from here](https://www.anaconda.com/download/)
+- Anaconda installed on your machine: prefer a [64-bit, Python 3.x download from here](https://www.anaconda.com/download/)
 - I'll point out datasets that we need for each of the exercises as we go along.
 
 # Topics
@@ -85,4 +84,4 @@ _If you really are one of those who want to get to work, ignore this._
 	- when people use this term what they mean is not only implementing cool algorithms, but also doing the dirty work of loading and querying data, cleaning it, figuring out the inconsistencies, the idisyncracies of the data/domain, imputing where necessary and the other tasks that may be thought of as 'drudgery' simply because they are the necessary nuts and bolts of every ML operation. This is not unlike the way engineering is treated - where the people writing the code are at the bottom of the pyramid. 
 - AI is all the research going on around Intelligent Machines - all the 'Math' work. 
 
-Ultimately it's upto the practioner to gain expertise and earn respect. ML vs AI - these divisions are largely there for people, who'll never write code or model with their own hands to talk in ways that don't sound completely stupid (to others like them). 
+Ultimately it's upto the practioner to gain expertise and earn respect. ML vs AI - these divisions are largely there for people, who'll never write code or model with their own hands but need to talk in ways that don't sound completely stupid (to others like them). 
