@@ -66,7 +66,7 @@ You can start with the empty notebook, follow the tutorial and end up with the s
 
 # Topics
 Here are all the bits we will cover:
-- Decision Trees - CART
+- Decision Trees - CART ?
 - Decision Trees - ID3, C4.5 and C5
 - Regression - Linear Regression
 - Regression - Logistic Regression
