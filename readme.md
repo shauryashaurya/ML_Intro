@@ -2,7 +2,7 @@ If the field of ML was Doc Brown, this introduction to machine learning tutorial
 
 You'll not be able to invent time travel, but you'll be able to stumble and fall all the way to saving the day. 
 
-# References:
+# References
 
 - This [http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf], 
 - This [https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf], 
@@ -58,6 +58,10 @@ Each bit addressed below will have two or three Jupyter Notebooks associated wit
 You can start with the empty notebook, follow the tutorial and end up with the solution.
 
 ## You'll need
+A computer with atleast 16 Gb of RAM
+Access to the internet
+Anaconda installed on your machine: [prefer a 64-bit, Python 3.x download from here](https://www.anaconda.com/download/)
+I'll point out datasets that we need for each of the exercises as we go along.
 
 # Topics
 Here are all the bits we will cover:
