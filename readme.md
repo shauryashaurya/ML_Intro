@@ -74,16 +74,15 @@ Here are all the bits we will cover:
 - Clustering - K-Means and K-Medians
 - Dimensionality Reduction - PCA
 - Dimensionality Reduction - LDA
+- *more to follow as we develop this further*
 
 # ML vs AI - a quick rant
-I come across this question again and again. 
-IMO,
-_this is a perfectly useless classification, reserved for sales decks and management retreats._ 
-_If you really are one of those who want to get to work, ignore this._
+I come across this question again and again. IMO, _this is a perfectly useless classification, reserved for sales decks and management retreats. If you really are one of those who want to get to work, ignore this._  
 
+This is how folks around me seem to talk about the two terms:   
 - Machine Learning is a 'subset' of AI
 	- deals with extant algorithms and their implemetation
 	- when people use this term what they mean is not only implementing cool algorithms, but also doing the work of loading and querying data, cleaning it, figuring out the inconsistencies, the idisyncracies of the data/domain, imputing where necessary and the other tasks that may be thought of as 'drudgery' simply because they are the necessary nuts and bolts of every ML operation. This is not unlike the way engineering is treated - where the people writing the code are at the bottom of the pyramid. 
 - AI is all the research going on around Intelligent Machines - all the 'Math' work. 
-
-Ultimately it's upto the practioner to gain expertise and earn respect. ML vs AI - these divisions are largely there for people, who'll never write code or model with their own hands but need to talk in ways that don't sound completely stupid (to others like them). 
+  
+Ultimately it's upto the practioner to gain expertise and earn respect. ML vs AI - these divisions are largely there for people, who'll never write code or model with their own hands but need to talk in ways that don't sound completely stupid (to others like them).  
