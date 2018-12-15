@@ -2,3 +2,6 @@
 *.zip
 *.Z
 .ipynb_checkpoints/Decision Trees-checkpoint.ipynb
+data/graphdata.dot
+tree.png
+tree.dot
