@@ -1,0 +1,3 @@
+- Tic Tac Toe data set: https://archive.ics.uci.edu/ml/machine-learning-databases/tic-tac-toe/
+- Diabetes Data Set: https://archive.ics.uci.edu/ml/datasets/diabetes
+- Wine Quality Data Set: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
