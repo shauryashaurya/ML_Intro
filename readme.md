@@ -58,14 +58,13 @@ Also:
 
 # Topics covered
 Here are all the bits we will cover:
-- Decision Trees - CART ?
-- Decision Trees - ID3, C4.5 and C5
-- Regression - Linear Regression
-- Regression - Logistic Regression
-- The Confusion Matrix
-- Clustering - K-Means and K-Medians
-- Dimensionality Reduction - PCA
-- Dimensionality Reduction - LDA
+- Decision Trees - CART, ID3, C4.5 and C5 (ready)
+- Regression - Linear Regression (ready)
+- Regression - Logistic Regression (WIP)
+- The Confusion Matrix (ready)
+- Clustering - K-Means and K-Medians (WIP)
+- Dimensionality Reduction - PCA (WIP)
+- Dimensionality Reduction - LDA (WIP)
 - *more to follow as we develop this further*
 
 # Mechanics
