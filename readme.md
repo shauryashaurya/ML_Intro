@@ -68,13 +68,8 @@ Here are all the bits we will cover:
 - Dimensionality Reduction - LDA
 - *more to follow as we develop this further*
 
-## You'll need
-- A computer with atleast 16 Gb of RAM
-- Access to the internet
-- Anaconda installed on your machine: prefer a [64-bit, Python 3.x download from here](https://www.anaconda.com/download/)
-- I'll point out datasets that we need for each of the exercises as we go along.
-
-# How this works
+# Mechanics
+## How the tutorial works
 Each bit addressed below will have one or three Jupyter Notebooks associated with them.  
 Either:  
 - An empty notebook, where you can add your code.
@@ -83,6 +78,12 @@ Either:
 You can start with the empty notebook, follow the tutorial and end up with the solution.  
 Or you get one notebook, you create a new one in Jupyter and follow the one here.
 The notebooks in the repo will be clearly marked and the names would be self explanatory.
+## You'll need
+- A computer with atleast 16 Gb of RAM
+- Access to the internet
+- Anaconda installed on your machine: prefer a [64-bit, Python 3.x download from here](https://www.anaconda.com/download/)
+- Datasets that we need for each of the exercises are listed [here](dataset-references.md)  
+
 
 # ML vs AI - a quick rant
 I come across this question again and again. IMO, _this is a perfectly useless classification, reserved for sales decks and management retreats. If you really are one of those who want to get to work, ignore this._  
